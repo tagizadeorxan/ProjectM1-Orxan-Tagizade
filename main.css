@@ -1,0 +1,249 @@
+ .mainh{
+  font-family: "Roboto";
+  font-style: normal;
+  position: absolute;
+  width: 1069px;
+  height: 71px;
+  left: 124px;
+  top: 39px;
+  font-weight: 300;
+  font-size: 43px;
+  line-height: 50px;
+
+color: #000000;
+    }
+.container{
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.mainphoto{
+          max-width: 172px;
+        }
+        .pagephoto{
+          width: 100%;
+        }
+.coins-img{
+        position: relative;
+        
+      }
+.coin-pattern{
+      display: flex;
+      justify-content: space-between;
+      min-width: 500px;
+      
+        
+    }
+
+
+  .main-coins{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+    top: 89px;
+    
+  }
+         
+       .mainA{
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 19px;
+            color: #833AE0;
+            font-family: "Roboto",sans-serif;
+
+          }
+
+      .coin-text{
+        position: relative;
+        font-family: "Roboto",sans-serif;
+        width: 250px;
+        height: 120px;
+        left: 18px;
+
+      } 
+
+      .coin-detail-text {
+        font-size: 13px;
+      }
+      
+      .coin-money{
+        text-align: right;
+        padding-top: 20px;
+        font-family: "Roboto",sans-serif;
+        margin: 0;
+        
+      }
+      
+      .moneyLittle {
+      font-weight: normal;
+      color: grey;
+      text-align: start;
+      margin:0;
+  
+}
+
+a{
+  font-size: small;
+}
+        a:hover{
+          color:brown;
+          
+        }
+      
+       
+       h3{
+          font-weight: bold;
+          font-size: 16px;
+          line-height: 123.4%;
+        }
+     
+        span{
+          font-size: 13px;
+          color: gray;
+        }
+      
+
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 43px;
+  line-height: 50px;
+  color: #000000;
+  text-align: center;
+  font-style: bold;
+}
+
+
+
+.discount {
+  position: absolute;
+  left: 65.22%;
+  right: 0%;
+  top: 0%;
+  bottom: 63.36%;
+  border-radius: 50%;
+  background: #833ae0;
+}
+.action {
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.percent {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  left: 15px;
+  top: 22px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 15px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.head {
+  position: absolute;
+  width: 456px;
+  height: 672px;
+  left: 628px;
+  top: 24px;
+  background: rgba(196, 196, 196, 0.5);
+  border: 1px solid black;
+}
+
+.inside {
+  position: absolute;
+  left: 5%;
+  right: 5%;
+  top: 0%;
+  bottom: 0%;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+
+  font-size: 15px;
+
+  text-align: start;
+  color: #000000;
+}
+
+RECT {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+}
+
+.spancolor {
+  color: grey;
+  font-weight: normal;
+}
+span {
+  font-weight: normal;
+}
+
+.articulnumber{
+color:black;
+}
+
+.spanbold {
+  font-style: bold;
+  font-size: 200%;
+  font-weight: bold;
+  color: black;
+}
+
+.page2 {
+  margin: 0;
+  text-align: start;
+}
+
+table {
+  position: absolute;
+  font-style: bold;
+}
+.backtopage {
+  position: absolute;
+  top: 90%;
+}
+
+
+
+
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+
+  color: #833ae0;
+}
+
+
+
+.aVerse {
+  position: absolute;
+  width: 463px;
+  height: 463px;
+  left: 164px;
+  top: -54px;
+}
+
+.reVerse {
+  position: absolute;
+  width: 458px;
+  height: 458px;
+  left: 167px;
+  top: 293px;
+}
+
+tr:nth-child(odd) {
+  background: rgba(255, 255, 255, 0.9);
+}
