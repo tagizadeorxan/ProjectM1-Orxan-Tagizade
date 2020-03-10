@@ -13,9 +13,10 @@
 color: #000000;
     }
 .container{
-  max-width: 1080px;
+  max-width: 1800px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 40px;
+  justify-content: space-between;
 }
 
 .mainphoto{
@@ -56,8 +57,7 @@ color: #000000;
 
           }
 
-      .coin-text{
-        position: relative;
+      .coin-text{      
         font-family: "Roboto",sans-serif;
         width: 250px;
         height: 120px;
@@ -66,7 +66,7 @@ color: #000000;
       } 
 
       .coin-detail-text {
-        font-size: 13px;
+        font-size: 13px;        
       }
       
       .coin-money{
@@ -129,9 +129,11 @@ h1 {
   border-radius: 50%;
   background: #833ae0;
 }
-.action {
+.action{
   transform: matrix(-1, 0, 0, 1, 0, 0);
 }
+
+
 .percent {
   position: absolute;
   width: 15px;
@@ -205,17 +207,24 @@ color:black;
 }
 
 table {
-  position: absolute;
+  position: relative;
   font-style: bold;
+  border-collapse: collapse;
 }
+
 .backtopage {
-  position: absolute;
-  top: 90%;
+  position: relative;
 }
 
 
+.tdborder {
+  border-right: 1px solid black;
+  
+}
 
-
+.trborder{
+  border-bottom: 1px solid black;
+}
 
 h2 {
   font-family: "Roboto", sans-serif;
